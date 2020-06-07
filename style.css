@@ -18,3 +18,10 @@ li {
   margin-bottom: 0%;
 
 }
+@media only screen and (max-width: 600px) {
+.column {
+  float: left;
+  padding: 10px;
+  height: 20%; /* Should be removed. Only for demonstration */
+}
+}
