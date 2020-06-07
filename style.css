@@ -22,6 +22,6 @@ li {
 .column {
   float: left;
   padding: 10px;
-  height: 20%; /* Should be removed. Only for demonstration */
+  height: 30%; /* Should be removed. Only for demonstration */
 }
 }
